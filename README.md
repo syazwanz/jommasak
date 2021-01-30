@@ -1,2 +1,2 @@
-# jommakan
-Jom Makan! Tailwind Framework - inspired by NetNinja.
+# jommasak
+Jom Masak! Tailwind Framework - inspired by NetNinja.
